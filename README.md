@@ -3,10 +3,10 @@
         [jpa笔记](https://github.com/mood321/springboot-demo/blob/master/springbootjpa/%E7%AC%94%E8%AE%B0.md)
       
    - Springboot 常用功能
-        [Springboot](https://github.com/mood321/springboot-demo/blob/master/springboot/%E7%AC%94%E8%AE%B0.md)
+        [Springboot笔记](https://github.com/mood321/springboot-demo/blob/master/springboot/%E7%AC%94%E8%AE%B0.md)
       
    - Springboot-websocket 模块
-       [Springboot-websocket](https://github.com/mood321/springboot-demo/blob/master/springboot/%E7%AC%94%E8%AE%B0.md)
+       [Springboot-websocket](https://github.com/mood321/springboot-demo/tree/master/springboot-websocket)
       
     
     

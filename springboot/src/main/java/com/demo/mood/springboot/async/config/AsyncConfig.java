@@ -1,0 +1,30 @@
+package com.demo.mood.springboot.async.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.scheduling.annotation.EnableAsync;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
+
+import java.util.concurrent.Executor;
+
+/**
+ * @Description TODO
+ * @Date 2019/7/29 0029 23:01
+ * @Created by mood321
+ */
+@EnableAsync
+@Configuration
+public class AsyncConfig {
+
+    @Bean("asyncExecutor")
+    public Executor asyncExecutor() {
+        ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+        executor.setCorePoolSize(8);
+        executor.setMaxPoolSize(10);
+        executor.setQueueCapacity(100);
+        executor.setThreadNamePrefix("asyncExecutor-");
+        executor.initialize();
+        return executor;
+    }
+
+}

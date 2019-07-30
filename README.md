@@ -9,7 +9,7 @@
        [Springboot-websocket](https://github.com/mood321/springboot-demo/tree/master/springboot-websocket)
       
    - Springboot-thymeleaf-vue 模块
-       [Springboot-thymeleaf-vue](https://github.com/mood321/springboot-demo/tree/master/springboot-websocket)
+       [Springboot-thymeleaf-vue](https://github.com/mood321/springboot-demo/blob/master/springboot-thymeleaf-vue/%E7%AC%94%E8%AE%B0.md)
       
     
     

@@ -8,5 +8,8 @@
    - Springboot-websocket 模块
        [Springboot-websocket](https://github.com/mood321/springboot-demo/tree/master/springboot-websocket)
       
+   - Springboot-thymeleaf-vue 模块
+       [Springboot-thymeleaf-vue](https://github.com/mood321/springboot-demo/tree/master/springboot-websocket)
+      
     
     

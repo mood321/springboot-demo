@@ -18,11 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * websocket实现
- * @author zhanghang
- * @date 2019/1/3 17:54
- */
+
 @Slf4j
 @Component
 @Data

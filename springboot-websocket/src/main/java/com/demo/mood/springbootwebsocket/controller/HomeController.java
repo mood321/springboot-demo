@@ -12,10 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * @author zhanghang
- * @date 2019/6/21
- */
 @Controller
 public class HomeController {
 

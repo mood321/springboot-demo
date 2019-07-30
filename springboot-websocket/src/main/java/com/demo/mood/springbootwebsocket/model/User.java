@@ -2,10 +2,7 @@ package com.demo.mood.springbootwebsocket.model;
 
 import lombok.Data;
 
-/**
- * @author zhanghang
- * @date 2019/6/21
- */
+
 @Data
 public class User {
 

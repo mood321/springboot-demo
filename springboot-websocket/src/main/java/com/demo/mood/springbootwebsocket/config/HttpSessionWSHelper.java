@@ -5,11 +5,7 @@ import javax.websocket.HandshakeResponse;
 import javax.websocket.server.HandshakeRequest;
 import javax.websocket.server.ServerEndpointConfig;
 
-/**
- * 协助server获取http session
- * @author zhanghang
- * @date 2019/1/4 13:58
- */
+
 public class HttpSessionWSHelper extends ServerEndpointConfig.Configurator {
 
     @Override

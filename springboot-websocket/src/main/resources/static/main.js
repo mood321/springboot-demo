@@ -24,7 +24,7 @@ new Vue({
             // console.log("picked:" + this.picked);
         },
         listAllUser:  function() {
-            return  axios.get('/listAllUser')
+            return await axios.get('/listAllUser')
                         .then(function (response) {
                             console.log(response);
                             if (response.status == 200) {

@@ -14,5 +14,6 @@
     <module>springbootjpa</module>
     <module>springboot-thymeleaf-vue</module>
     <module>springboot-websocket</module>
+    <module>springboot-quartz-mail</module>
 </modules>
 </project>

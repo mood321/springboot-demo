@@ -11,5 +11,11 @@
    - Springboot-thymeleaf-vue 模块
        [Springboot-thymeleaf-vue](https://github.com/mood321/springboot-demo/blob/master/springboot-thymeleaf-vue/%E7%AC%94%E8%AE%B0.md)
       
+   - SpringBoot + Quartz+ spring mail 模块
+       [SpringBoot + Quartz+ spring mail](https://github.com/mood321/springboot-demo/blob/master/springboot-thymeleaf-vue/%E7%AC%94%E8%AE%B0.md)
+      
+   - springboot-swagger 模块
+       [Springboot-swagger](https://github.com/mood321/springboot-demo/blob/master/springboot-thymeleaf-vue/%E7%AC%94%E8%AE%B0.md)
+      
     
     

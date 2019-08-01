@@ -17,5 +17,8 @@
    - springboot-swagger 模块
        [Springboot-swagger](https://github.com/mood321/springboot-demo/blob/master/springboot-swagger/%E7%AC%94%E8%AE%B0.md)
       
+   - springboot-shiro 模块
+       [Springboot-shiro](https://github.com/mood321/springboot-demo/blob/master/springboot-shiro/%E7%AC%94%E8%AE%B0.md)
+      
     
     

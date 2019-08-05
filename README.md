@@ -20,5 +20,8 @@
    - springboot-shiro 模块
        [Springboot-shiro](https://github.com/mood321/springboot-demo/blob/master/springboot-shiro/%E7%AC%94%E8%AE%B0.md)
       
+   - springboot-mybatis 模块
+       [springboot-mybatis](https://github.com/mood321/springboot-demo/blob/master/springboot-mybatis/%E7%AC%94%E8%AE%B0.md)
+      
     
     

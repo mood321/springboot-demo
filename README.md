@@ -23,5 +23,8 @@
    - springboot-mybatis 模块
        [springboot-mybatis](https://github.com/mood321/springboot-demo/blob/master/springboot-mybatis/%E7%AC%94%E8%AE%B0.md)
       
+   - springboot-jwt 模块
+       [springboot-jwt](https://github.com/mood321/springboot-demo/blob/master/springboot-jwt/%E7%AC%94%E8%AE%B0.md)
+      
     
     

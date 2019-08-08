@@ -26,5 +26,8 @@
    - springboot-jwt 模块
        [springboot-jwt](https://github.com/mood321/springboot-demo/blob/master/springboot-jwt/%E7%AC%94%E8%AE%B0.md)
       
+   - springboot-dubbo 模块
+       [springboot-dubbo](https://github.com/mood321/springboot-demo/blob/master/springboot-dubbo/%E7%AC%94%E8%AE%B0.md)
+      
     
     

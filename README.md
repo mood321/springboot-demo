@@ -29,5 +29,8 @@
    - springboot-dubbo 模块
        [springboot-dubbo](https://github.com/mood321/springboot-demo/blob/master/springboot-dubbo/%E7%AC%94%E8%AE%B0.md)
       
+   - springboot-cloud 模块
+       [springboot-cloud](https://github.com/mood321/springboot-demo/blob/master/springboot-cloud/%E7%AC%94%E8%AE%B0.md)
+      
     
     

@@ -15,5 +15,11 @@
     <module>springboot-thymeleaf-vue</module>
     <module>springboot-websocket</module>
     <module>springboot-quartz-mail</module>
+  <!--  <module>springboot-cloud</module>-->
+    <module>springboot-jwt</module>
+    <module>springboot-swagger</module>
+    <module>springboot-shiro</module>
+    <module>springboot-mybatis</module>
+
 </modules>
 </project>

@@ -32,5 +32,11 @@
    - springboot-cloud 模块
        [springboot-cloud](https://github.com/mood321/springboot-demo/blob/master/springboot-cloud/%E7%AC%94%E8%AE%B0.md)
       
+   - springboot-activemq 模块
+       [springboot-activemq](https://github.com/mood321/springboot-demo/blob/master/springboot-activemq/%E7%AC%94%E8%AE%B0.md)
+      
+   - springboot-rabbitmq 模块
+       [springboot-rabbitmq](https://github.com/mood321/springboot-demo/blob/master/springboot-rabbitmq/%E7%AC%94%E8%AE%B0.md)
+      
     
     

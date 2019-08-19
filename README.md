@@ -38,5 +38,12 @@
    - springboot-rabbitmq 模块
        [springboot-rabbitmq](https://github.com/mood321/springboot-demo/blob/master/springboot-rabbitmq/%E7%AC%94%E8%AE%B0.md)
       
+      
+   - springboot-redis 模块
+       [springboot-redis](https://github.com/mood321/springboot-demo/blob/master/springboot-redis/%E7%AC%94%E8%AE%B0.md)
+   
+   - springboot-redisson 模块
+          [springboot-redisson](https://github.com/mood321/springboot-demo/blob/master/springboot-redisson/%E7%AC%94%E8%AE%B0.md)
+     
     
     

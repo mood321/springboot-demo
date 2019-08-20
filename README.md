@@ -45,5 +45,8 @@
    - springboot-redisson 模块
           [springboot-redisson](https://github.com/mood321/springboot-demo/blob/master/springboot-redisson/%E7%AC%94%E8%AE%B0.md)
      
+   - springboot-lucene 模块
+          [springboot-lucene](https://github.com/mood321/springboot-demo/blob/master/springboot-search/springbootLucene/%E7%AC%94%E8%AE%B0.md)
+     
     
     

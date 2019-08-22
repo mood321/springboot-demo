@@ -48,5 +48,14 @@
    - springboot-lucene 模块
           [springboot-lucene](https://github.com/mood321/springboot-demo/blob/master/springboot-search/springbootLucene/%E7%AC%94%E8%AE%B0.md)
      
+   - springboot-es 模块(未完)
+          [springboot-es](https://github.com/mood321/springboot-demo/blob/master/springboot-search/springboot-es)
+     
+   - springboot-solr 模块(未完)
+          [springboot-solr](https://github.com/mood321/springboot-demo/blob/master/springboot-search/springboot-solr)
+     
+   - springboot-mongodb 模块
+          [springboot-mongodb](https://github.com/mood321/springboot-demo/blob/master/springboot-mongodb/%E7%AC%94%E8%AE%B0.md)
+     
     
     

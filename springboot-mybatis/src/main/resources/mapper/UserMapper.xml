@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.mood.springbootmybatis.mybatisnative.mapper.UserMapper">
-  <resultMap id="BaseResultMap" type="com.mood.springbootmybatis.mybatisnative.model.User">
+<mapper namespace="com.springbootmybatis.mybatisnative.mapper.UserMapper">
+  <resultMap id="BaseResultMap" type="com.springbootmybatis.mybatisnative.model.User">
     <id column="id" jdbcType="INTEGER" property="id" />
     <result column="name" jdbcType="VARCHAR" property="name" />
     <result column="age" jdbcType="INTEGER" property="age" />
@@ -67,7 +67,7 @@
   <sql id="Base_Column_List">
     id, name, age
   </sql>
-  <select id="selectByExample" parameterType="com.mood.springbootmybatis.mybatisnative.model.UserExample" resultMap="BaseResultMap">
+  <select id="selectByExample" parameterType="com.springbootmybatis.mybatisnative.model.UserExample" resultMap="BaseResultMap">
     select
     <if test="distinct">
       distinct
@@ -91,19 +91,19 @@
     delete from t_user
     where id = #{id,jdbcType=INTEGER}
   </delete>
-  <delete id="deleteByExample" parameterType="com.mood.springbootmybatis.mybatisnative.model.UserExample">
+  <delete id="deleteByExample" parameterType="com.springbootmybatis.mybatisnative.model.UserExample">
     delete from t_user
     <if test="_parameter != null">
       <include refid="Example_Where_Clause" />
     </if>
   </delete>
- <!-- <insert id="insert" parameterType="com.mood.springbootmybatis.mybatisnative.model.User">
+ <!-- <insert id="insert" parameterType="User">
     insert into t_user (id, name, age
       )
     values (#{id,jdbcType=INTEGER}, #{name,jdbcType=VARCHAR}, #{age,jdbcType=INTEGER}
       )
   </insert>-->
-  <insert id="insertSelective" parameterType="com.mood.springbootmybatis.mybatisnative.model.User">
+  <insert id="insertSelective" parameterType="com.springbootmybatis.mybatisnative.model.User">
     insert into t_user
     <trim prefix="(" suffix=")" suffixOverrides=",">
       <if test="id != null">
@@ -128,7 +128,7 @@
       </if>
     </trim>
   </insert>
-  <select id="countByExample" parameterType="com.mood.springbootmybatis.mybatisnative.model.UserExample" resultType="java.lang.Long">
+  <select id="countByExample" parameterType="com.springbootmybatis.mybatisnative.model.UserExample" resultType="java.lang.Long">
     select count(*) from t_user
     <if test="_parameter != null">
       <include refid="Example_Where_Clause" />
@@ -160,7 +160,7 @@
       <include refid="Update_By_Example_Where_Clause" />
     </if>
   </update>
-  <update id="updateByPrimaryKeySelective" parameterType="com.mood.springbootmybatis.mybatisnative.model.User">
+  <update id="updateByPrimaryKeySelective" parameterType="com.springbootmybatis.mybatisnative.model.User">
     update t_user
     <set>
       <if test="name != null">
@@ -172,7 +172,7 @@
     </set>
     where id = #{id,jdbcType=INTEGER}
   </update>
-  <update id="updateByPrimaryKey" parameterType="com.mood.springbootmybatis.mybatisnative.model.User">
+  <update id="updateByPrimaryKey" parameterType="com.springbootmybatis.mybatisnative.model.User">
     update t_user
     set name = #{name,jdbcType=VARCHAR},
       age = #{age,jdbcType=INTEGER}

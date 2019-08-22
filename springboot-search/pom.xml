@@ -20,6 +20,8 @@
 
     <modules>
         <module>springbootLucene</module>
+        <module>springboot-solr</module>
+        <module>springboot-es</module>
     </modules>
 
     <properties>
